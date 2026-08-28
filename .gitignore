@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+
+# training output: checkpoints, logs, run directories
+runs/
+*.npz
